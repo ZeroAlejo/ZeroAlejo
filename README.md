@@ -1,17 +1,15 @@
-### Hi, I'm Alejandro 👋
+# Alejandro Rodriguez Ulloa
 
-**Systems Engineer | Data Analysis · Process Optimization · Technology**  
-📍 Bogotá, Colombia
+Systems Engineer | Data Analysis · Process Optimization · Technology
+Bogotá, Colombia
 
-I'm a Systems Engineer from Universidad EAN (graduating November 2026), with practical
+Systems Engineer from Universidad EAN (graduating November 2026), with practical
 experience in a large multinational company, Maersk. I helped develop, test, and launch
 technology solutions for the Procurement area, using Power Apps, SharePoint, SQL, Python,
-and data from different company systems. I enjoy solving problems and building data-based
-solutions that make operations more efficient.
+and data from different company systems. I have strong analytical and problem-solving
+skills and a good understanding of business processes.
 
----
-
-### 🛠️ Tech Stack
+## Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
@@ -21,19 +19,14 @@ solutions that make operations more efficient.
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
----
+## Experience
 
-### 💼 Experience
+**University Intern — Maersk Colombia S.A.S.** (Mar 2026 – Sep 2026)
 
-**University Intern — Maersk Colombia S.A.S.** *(Mar 2026 – Sep 2026)*
 - Helped develop and test a technology solution to improve requests and quotations management
 - Analyzed data from multiple company systems to find errors and improve workflows
 - Automated and consolidated data using Python and Jupyter Notebook
 
----
+## Contact
 
-### 📫 Contact
-- Email: alejandroru7688@gmail.com
-
-### ⚽ Interests
-Technology · Soccer · Video Games · LEGO
+Email: alejandroru7688@gmail.com
