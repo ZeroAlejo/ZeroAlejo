@@ -1,5 +1,9 @@
 <div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1F3864,35:5B2A86,70:2E74B5,100:1F3864&height=180&animation=fadeIn&section=header&text=Alejandro%20Rodriguez%20Ulloa&fontSize=34&fontColor=FFFFFF&fontAlignY=40&desc=Systems%20Engineer&descAlignY=62&descSize=18&descColor=FFFFFF" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=16&duration=2500&pause=1000&color=2E74B5&center=true&vCenter=true&width=500&height=30&lines=Data+%26+Process+Automation;Python+%C2%B7+SQL+%C2%B7+Power+BI"/>
+
 </div>
 
 ---
