@@ -2,9 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1F3864,35:5B2A86,70:2E74B5,100:1F3864&height=160&animation=fadeIn&section=header" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=32&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=600&height=70&lines=Alejandro+Rodriguez+Ulloa;%3C+Systems+Engineer+%2F%3E"/>
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=32&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=600&height=70&lines=Alejandro+Rodriguez+Ulloa;Systems+Engineer"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=16&duration=2500&pause=1000&color=2E74B5&center=true&vCenter=true&width=500&height=30&lines=Systems+Engineer;Data+%26+Process+Automation;Python+·+SQL+·+Power+BI"/>
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=16&duration=2500&pause=1000&color=2E74B5&center=true&vCenter=true&width=500&height=30&lines=Data+%26+Process+Automation;Python+%C2%B7+SQL+%C2%B7+Power+BI"/>
 
 </div>
 
@@ -53,4 +53,16 @@ currently = "learning data engineering fundamentals"
 <br>
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![SharePoint](https://img.shields.io/badge/-SharePoint-0078D4?style=flat-square&logo=microsoftsharepoint&logoColor=white)
-![Git](https://img.shields.io/b
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/-alejandroru7688@gmail.com-1F3864?style=flat-square&logo=gmail&logoColor=white)](mailto:alejandroru7688@gmail.com)
+
+</div>
