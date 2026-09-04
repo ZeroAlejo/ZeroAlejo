@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F3864,100:2E74B5&height=180&section=header&text=Alejandro%20Rodriguez%20Ulloa&fontSize=38&fontColor=ffffff&fontAlignY=40&desc=Systems%20Engineer%20%7C%20Data%20%26%20Process%20Automation&descAlignY=58&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F3864,100:2E74B5&height=180&section=header&text=Alejandro%20Rodriguez%20Ulloa&fontSize=38&fontColor=ffffff&fontAlignY=40" width="100%"/>
 
-<a href="https://github.com/TU_USUARIO">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Turning+raw+data+into+decisions;Building+with+Python%2C+SQL+%26+Power+BI;Bogot%C3%A1%2C+Colombia&font=Fira+Code&size=18&pause=1200&color=2E74B5&center=true&vCenter=true&width=500&height=40"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com/?lines=Systems+Engineer;Data+%26+Process+Automation;Python+%C2%B7+SQL+%C2%B7+Power+BI&font=Fira+Code&size=18&pause=1200&color=2E74B5&center=true&vCenter=true&width=500&height=40"/>
 
 </div>
 
@@ -12,9 +10,9 @@
 
 ### About
 
-I'm finishing Systems Engineering at Universidad EAN, currently applying what I learn
-to real Procurement workflows at Maersk — cleaning data, automating reports, and
-building small tools that remove manual work from other people's day.
+Systems Engineering student focused on data analysis and process automation.
+Currently working with Python, SQL and Power BI on projects that turn raw data
+into something useful.
 
 If code is Lego for adults, I've been building both since I was a kid — just with
 fewer instructions and more debugging.
@@ -58,15 +56,6 @@ currently = "learning data engineering fundamentals"
 </td>
 </tr>
 </table>
-
-### Activity
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&hide_border=true&theme=default&title_color=2E74B5&icon_color=2E74B5"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&hide_border=true&background=FFFFFF&stroke=2E74B5&ring=2E74B5&fire=2E74B5&currStreakLabel=2E74B5"/>
-
-</div>
 
 ---
 
